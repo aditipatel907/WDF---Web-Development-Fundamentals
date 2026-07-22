@@ -1,0 +1,26 @@
+.entities{
+    background-color: #a7b391;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+}
+
+table, th, td{
+    border-width: 2px solid;
+    border-color:black
+}
+
+th, td{
+    height: 30px;
+    width: 300px;
+}
+
+table{
+    margin: 10px auto;
+    
+}
+
+#row{
+    background-color: #a7b391;
+    text-align: center;
+}
